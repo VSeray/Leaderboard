@@ -22,11 +22,6 @@ This project is part of the Microverse curriculum. The main objective is to unde
 # Live Demo 
 [Live Demo]()
 
-# Test
-
-Download all the dependencies run:
-
-`npm install`
 
 # Run webpack server
 
@@ -49,10 +44,12 @@ run git clone (https://github.com/VSeray/To-Do-list.git) in your terminals
 
 start index.html
 
+Download all the dependencies run:
 
-# Authors
+`npm install`
 
-👤 Author
+
+## 👤 Author
 
 - GitHub: [github](https://github.com/VSeray)
 
@@ -60,11 +57,11 @@ start index.html
 
 - LinkedIn: [Linkdin](https://www.linkedin.com/in/vana-seraydarian-936687191/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNyso4dw6Tz6UBL%2Fqkjvtvw%3D%3D)
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/microverseinc/readme-template/issues). 
+Feel free to check the [issues page](https://github.com/VSeray/Leaderboard/issues). 
 
 
 # Show your support
