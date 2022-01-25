@@ -24,16 +24,16 @@
 
 Download all the dependencies run:
 
-npm install
+`npm install`
 
 # Run webpack server
 
-npm run start
+`npm run start`
 
 
 # Run build
 
-npm run build
+`npm run build`
 
 # Getting Started
 
