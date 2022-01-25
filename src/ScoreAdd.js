@@ -1,3 +1,5 @@
+import { saveToApi, gameID } from './api';
+
 const scoreAdd = () => {
   const addForm = document.querySelector('.form-add');
   const name = document.getElementById('name');
