@@ -3,6 +3,9 @@ The leaderboard website displays scores submitted by different players. It also 
 
 This project is part of the Microverse curriculum. The main objective is to understand how to consume APIs.
 
+![screenshot](./screenshot1.PNG)
+![screenshot](./screenshot2.PNG)
+
 # Built With
 
 . HTML
