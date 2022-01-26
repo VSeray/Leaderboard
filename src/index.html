@@ -24,7 +24,7 @@
                 <div class="score-add">
                     <form class="form-add">
                         <h2>Add your score</h2>
-                        <input type="text" name="name" placeholder="Your name" id="name" required>
+                        <input type="text" name="name" placeholder="Your name" pattern="[a-z,A-Z]{2,30}" title="Name should contain letters"  id="name" required>
                         <input type="number" name="score" placeholder="Your score" id="score" required>
                         <button type="submit" class="btn-submit">Submit</button>
                     </form>
